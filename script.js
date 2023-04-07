@@ -8,7 +8,7 @@ const closeModal = document.getElementsByClassName("close")[0];
 let gameOver = false;
 let foodX, foodY;
 let snakeX = 7,
-  snakeY = 3;
+  snakeY = 4;
 let snakeBody = [];
 let directX = 0,
   directY = 0;
